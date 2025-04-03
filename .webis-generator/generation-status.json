@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-04-03T20:59:48.909Z",
+  "timestamp": "2025-04-03T21:00:14.474Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and call to action for the restaurant"
+    },
+    {
+      "name": "AboutUsSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the restaurant's background, expertise, and unique value proposition"
+    },
+    {
+      "name": "FeaturedProductsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of the restaurant's featured menu items or products"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Overview of the restaurant's services including dining options, catering, or special events"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual gallery showcasing the restaurant's dishes, interior, and dining experiences"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Carousel of customer testimonials and reviews"
+    },
+    {
+      "name": "FAQAccordion",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the restaurant, reservations, or policies"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form for customer inquiries or feedback"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "pending",
+      "description": "Interactive map showing the restaurant's location"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with contact information, social media links, and copyright"
+    }
+  ],
   "repoName": "webis-site-tomi-1743713988895"
 }
