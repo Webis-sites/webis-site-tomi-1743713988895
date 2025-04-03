@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-03T21:01:03.612Z",
+  "timestamp": "2025-04-03T21:01:35.135Z",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 1,
+    "completedComponents": 2,
     "failedComponents": 0,
-    "progress": 10
+    "progress": 20
   },
   "components": [
     {
@@ -16,7 +16,7 @@
     {
       "name": "AboutUsSection",
       "type": "about",
-      "status": "pending",
+      "status": "completed",
       "description": "Section explaining the restaurant's background, expertise, and unique value proposition"
     },
     {
